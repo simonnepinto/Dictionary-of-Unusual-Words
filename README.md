@@ -1,4 +1,5 @@
-#Dictionary Of Unusual Words
+# Dictionary Of Unusual Words
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-c.svg">
 </p>
