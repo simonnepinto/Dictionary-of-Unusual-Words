@@ -1,5 +1,9 @@
 # Dictionary Of Unusual Words
 
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-c.svg">
+</p>
+
 1. The following program utilises a binary search tree(BST) to store the words and implements inorder traversal to display the elements in alphabetical order.
 2. We can perform insertion , deletion, search and traversal on the dictionary.
 3. Each new word inserted by the user forms a node of the BST.
